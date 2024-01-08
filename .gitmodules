@@ -1,9 +1,3 @@
-[submodule "hugo-resume"]
-	path = hugo-resume
-	url = https://github.com/chrisfrohmaier/hugo-resume.git
-[submodule "themes/hyde"]
-	path = themes/hyde
-	url = https://github.com/spf13/hyde.git
 [submodule "themes/hugo-resume"]
 	path = themes/hugo-resume
 	url = https://github.com/chrisfrohmaier/hugo-resume.git
