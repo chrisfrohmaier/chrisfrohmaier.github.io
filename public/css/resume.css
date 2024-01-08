@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -22,18 +22,18 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', serif;
-  font-weight: 700;
+  font-family: Helvetica, Arial, serif;
+  font-weight: 500;
   color: #343a40;
 }
 
 
-h1, h2{
+/* h1, h2{
   text-transform: uppercase;
-}
+} */
 
 h1 {
-  font-size: 6rem;
+  font-size: 5.5rem;
   line-height: 5.5rem;
 }
 
@@ -42,9 +42,9 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 500;
-  font-family: 'Roboto', sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 1.35rem;
 }
 
@@ -90,8 +90,8 @@ h2 {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
+    max-width: 15rem;
+    max-height: 15rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
@@ -140,17 +140,20 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #7CAFC2 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #7CAFC2 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #7CAFC2;
 }
 
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+
+/* https://github.com/chriskempson/base16-shell/blob/master/base16-shell.png Test*/
