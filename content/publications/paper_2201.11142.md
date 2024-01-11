@@ -1,0 +1,16 @@
+---
+title: "The dark energy survey 5-yr photometrically identified type Ia supernovae"
+date: 2022-08-01
+pubtype: "Paper"
+featured: true
+description: "As part of the cosmology analysis using Type Ia Supernovae (SN Ia) in the Dark Energy Survey (DES), we present photometrically identified SN Ia samples using multiband light curves and host galaxy redshifts. For this analysis, we use the photometric classification framework SUPERNNOVAtrained on realistic DES-like simulations. For reliable classification, we process the DES SN programme (DES-SN) data and introduce improvements to the classifier architecture, obtaining classification accuracies of more than 98 per cent on simulations. This is the first SN classification to make use of ensemble methods, resulting in more robust samples. Using photometry, host galaxy redshifts, and a classification probability requirement, we identify 1863 SNe Ia from which we select 1484 cosmology-grade SNe Ia spanning the redshift range of 0.07 < z < 1.14. We find good agreement between the light-curve properties of the photometrically selected sample and simulations. Additionally, we create similar SN Ia samples using two types of Bayesian Neural Network classifiers that provide uncertainties on the classification probabilities. We test the feasibility of using these uncertainties as indicators for out-of-distribution candidates and model confidence. Finally, we discuss the implications of photometric samples and classification methods for future surveys such as Vera C. Rubin Observatory Legacy Survey of Space and Time."
+tags: ['methods: data analysis', 'surveys', 'supernovae: general', 'cosmology: observations', 'Astrophysics - Cosmology and Nongalactic Astrophysics', 'Astrophysics - Instrumentation and Methods for Astrophysics']
+image: ""
+link: "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.5159M"
+fact: ""
+weight: 400
+sitemap:
+  priority : 0.2
+---
+
+As part of the cosmology analysis using Type Ia Supernovae (SN Ia) in the Dark Energy Survey (DES), we present photometrically identified SN Ia samples using multiband light curves and host galaxy redshifts. For this analysis, we use the photometric classification framework SUPERNNOVAtrained on realistic DES-like simulations. For reliable classification, we process the DES SN programme (DES-SN) data and introduce improvements to the classifier architecture, obtaining classification accuracies of more than 98 per cent on simulations. This is the first SN classification to make use of ensemble methods, resulting in more robust samples. Using photometry, host galaxy redshifts, and a classification probability requirement, we identify 1863 SNe Ia from which we select 1484 cosmology-grade SNe Ia spanning the redshift range of 0.07 < z < 1.14. We find good agreement between the light-curve properties of the photometrically selected sample and simulations. Additionally, we create similar SN Ia samples using two types of Bayesian Neural Network classifiers that provide uncertainties on the classification probabilities. We test the feasibility of using these uncertainties as indicators for out-of-distribution candidates and model confidence. Finally, we discuss the implications of photometric samples and classification methods for future surveys such as Vera C. Rubin Observatory Legacy Survey of Space and Time.

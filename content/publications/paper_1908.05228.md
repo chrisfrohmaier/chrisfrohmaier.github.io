@@ -1,0 +1,16 @@
+---
+title: "Spectrophotometric templates for core-collapse supernovae and their application in simulations of time-domain surveys"
+date: 2019-11-01
+pubtype: "Paper"
+featured: true
+description: "The design and analysis of time-domain sky surveys require the ability to simulate accurately realistic populations of core-collapse supernova (SN) events. We present a set of spectral time-series templates designed for this purpose, for both hydrogen-rich (Type II, IIn, and IIb) and stripped-envelope (Type Ib, Ic, and Ic-BL) core-collapse SNe. We use photometric and spectroscopic data for 67 core-collapse SNe from the literature, and for each generate a time-series spectral template. The techniques used to build the templates are fully data driven with no assumption of any parametric form or model for the light curves. The template- building code is open source, and can be applied to any transient for which well-sampled multiband photometry and multiple spectroscopic observations are available. We extend these spectral templates into the near-ultraviolet to ensuremathlambda ≃ 1600 rA using observer-frame ultraviolet photometry. We also provide a set of templates corrected for host galaxy dust extinction, and provide a set of luminosity functions that can be used with our spectral templates in simulations. We give an example of how these templates can be used by integrating them within the popular SN simulation package SNANA, and simulating core-collapse SNe in photometrically selected cosmological Type Ia SN samples, prone to contamination from core-collapse events."
+tags: ['methods: data analysis', 'methods: statistical', 'supernovae: general', 'Astrophysics - High Energy Astrophysical Phenomena']
+image: ""
+link: "https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5802V"
+fact: ""
+weight: 400
+sitemap:
+  priority : 0.2
+---
+
+The design and analysis of time-domain sky surveys require the ability to simulate accurately realistic populations of core-collapse supernova (SN) events. We present a set of spectral time-series templates designed for this purpose, for both hydrogen-rich (Type II, IIn, and IIb) and stripped-envelope (Type Ib, Ic, and Ic-BL) core-collapse SNe. We use photometric and spectroscopic data for 67 core-collapse SNe from the literature, and for each generate a time-series spectral template. The techniques used to build the templates are fully data driven with no assumption of any parametric form or model for the light curves. The template- building code is open source, and can be applied to any transient for which well-sampled multiband photometry and multiple spectroscopic observations are available. We extend these spectral templates into the near-ultraviolet to ensuremathlambda ≃ 1600 rA using observer-frame ultraviolet photometry. We also provide a set of templates corrected for host galaxy dust extinction, and provide a set of luminosity functions that can be used with our spectral templates in simulations. We give an example of how these templates can be used by integrating them within the popular SN simulation package SNANA, and simulating core-collapse SNe in photometrically selected cosmological Type Ia SN samples, prone to contamination from core-collapse events.

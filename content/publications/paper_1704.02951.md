@@ -1,0 +1,16 @@
+---
+title: "Real-time Recovery Efficiencies and Performance of the Palomar Transient Factory's Transient Discovery Pipeline"
+date: 2017-05-01
+pubtype: "1st Author"
+featured: true
+description: "We present the transient source detection efficiencies of the Palomar Transient Factory (PTF), parameterizing the number of transients that PTF found versus the number of similar transients that occurred over the same period in the survey search area but were missed. PTF was an optical sky survey carried out with the Palomar 48 inch telescope over 2009-2012, observing more than 8000 square degrees of sky with cadences of between one and five days, locating around 50,000 non-moving transient sources, and spectroscopically confirming around 1900 supernovae. We assess the effectiveness with which PTF detected transient sources, by inserting ≃ 7 million artificial point sources into real PTF data. We then study the efficiency with which the PTF real-time pipeline recovered these sources as a function of the source magnitude, host galaxy surface brightness, and various observing conditions (using proxies for seeing, sky brightness, and transparency). The product of this study is a multi-dimensional recovery efficiency grid appropriate for the range of observing conditions that PTF experienced and that can then be used for studies of the rates, environments, and luminosity functions of different transient types using detailed Monte Carlo simulations. We illustrate the technique using the observationally well-understood class of type Ia supernovae."
+tags: ['methods: data analysis', 'supernovae: general', 'surveys', 'Astrophysics - Instrumentation and Methods for Astrophysics', 'Astrophysics - Cosmology and Nongalactic Astrophysics', 'Astrophysics - High Energy Astrophysical Phenomena']
+image: ""
+link: "https://ui.adsabs.harvard.edu/abs/2017ApJS..230....4F"
+fact: ""
+weight: 200
+sitemap:
+  priority : 1
+---
+
+We present the transient source detection efficiencies of the Palomar Transient Factory (PTF), parameterizing the number of transients that PTF found versus the number of similar transients that occurred over the same period in the survey search area but were missed. PTF was an optical sky survey carried out with the Palomar 48 inch telescope over 2009-2012, observing more than 8000 square degrees of sky with cadences of between one and five days, locating around 50,000 non-moving transient sources, and spectroscopically confirming around 1900 supernovae. We assess the effectiveness with which PTF detected transient sources, by inserting ≃ 7 million artificial point sources into real PTF data. We then study the efficiency with which the PTF real-time pipeline recovered these sources as a function of the source magnitude, host galaxy surface brightness, and various observing conditions (using proxies for seeing, sky brightness, and transparency). The product of this study is a multi-dimensional recovery efficiency grid appropriate for the range of observing conditions that PTF experienced and that can then be used for studies of the rates, environments, and luminosity functions of different transient types using detailed Monte Carlo simulations. We illustrate the technique using the observationally well-understood class of type Ia supernovae.
