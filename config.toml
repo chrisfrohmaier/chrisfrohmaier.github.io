@@ -37,3 +37,7 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
