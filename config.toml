@@ -1,5 +1,5 @@
 title = "Chris Frohmaier"
-baseURL = "https://chrisfrohmaier.github.io/"
+baseURL = "//chrisfrohmaier.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
