@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>techniques: spectroscopic on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/techniques-spectroscopic/</link>
+    <description>Recent content in techniques: spectroscopic on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/techniques-spectroscopic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using late-time optical and near-infrared spectra to constrain Type Ia supernova explosion properties</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1803.10252/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1803.10252/</guid>
+      <description>The late-time spectra of Type Ia supernovae (SNe Ia) are powerful probes of the underlying physics of their explosions. We investigate the late-time optical and near-infrared spectra of seven SNe Ia obtained at the VLT with XShooter at &amp;gt;200 d after explosion. At these epochs, the inner Fe-rich ejecta can be studied. We use a line-fitting analysis to determine the relative line fluxes, velocity shifts, and line widths of prominent features contributing to the spectra ([Fe II], [Ni II], and [Co III]).</description>
+    </item>
+    
+  </channel>
+</rss>

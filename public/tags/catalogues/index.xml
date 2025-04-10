@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>catalogues on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/catalogues/</link>
+    <description>Recent content in catalogues on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/catalogues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.02640/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.02640/</guid>
+      <description>The 5-yr Dark Energy Survey Supernova Programme (DES-SN) is one of the largest and deepest transient surveys to date in terms of volume and number of supernovae. Identifying and characterizing the host galaxies of transients plays a key role in their classification, the study of their formation mechanisms, and the cosmological analyses. To derive accurate host galaxy properties, we create depth-optimized coadds using single-epoch DES-SN images that are selected based on sky and atmospheric conditions.</description>
+    </item>
+    
+  </channel>
+</rss>

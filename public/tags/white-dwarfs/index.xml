@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>white dwarfs on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/white-dwarfs/</link>
+    <description>Recent content in white dwarfs on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/white-dwarfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rates and delay times of Type Ia supernovae in the Dark Energy Survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2105.11954/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2105.11954/</guid>
+      <description>We use a sample of 809 photometrically classified Type Ia supernovae (SNe Ia) discovered by the Dark Energy Survey (DES) along with 40 415 field galaxies to calculate the rate of SNe Ia per galaxy in the redshift range 0.2 &amp;lt; z &amp;lt; 0.6. We recover the known correlation between SN Ia rate and galaxy stellar mass across a broad range of scales 8.5 ensuremathleq log (M_/M_ensuremathodot) ensuremathleq 11.25. We find that the SN Ia rate increases with stellar mass as a power law with index 0.</description>
+    </item>
+    
+  </channel>
+</rss>

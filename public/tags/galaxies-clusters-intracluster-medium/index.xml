@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>galaxies: clusters: intracluster medium on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/galaxies-clusters-intracluster-medium/</link>
+    <description>Recent content in galaxies: clusters: intracluster medium on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/galaxies-clusters-intracluster-medium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Volumetric Rate of Calcium-rich Transients in the Local Universe</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1804.03103/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1804.03103/</guid>
+      <description>We present a measurement of the volumetric rate of textquotedblleftcalcium-richtextquotedblright optical transients in the local universe, using a sample of three events from the Palomar Transient Factory (PTF). This measurement builds on a detailed study of the PTF transient detection efficiencies and uses a Monte Carlo simulation of the PTF survey. We measure the volumetric rate of calcium-rich transients to be higher than previous estimates: 1.21_-0.39^+1.13 texttimes 10^-5 events yr^-1 Mpc^-3.</description>
+    </item>
+    
+  </channel>
+</rss>

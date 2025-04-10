@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transients on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/transients/</link>
+    <description>Recent content in transients on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/transients/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiwavelength observations of the extraordinary accretion event AT2021lwx</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2303.04412/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2303.04412/</guid>
+      <description>We present observations from X-ray to mid-infrared wavelengths of the most energetic non-quasar transient ever observed, AT2021lwx. Our data show a single optical brightening by a factor &amp;gt;100 to a luminosity of 7 texttimes 10^45 erg s^-1 and a total radiated energy of 1.5 texttimes 10^53 erg, both greater than any known optical transient. The decline is smooth and exponential and the ultraviolet-optical spectral energy distribution resembles a blackbody with a temperature of 1.</description>
+    </item>
+    
+  </channel>
+</rss>

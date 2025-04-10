@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gravitational waves on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/gravitational-waves/</link>
+    <description>Recent content in gravitational waves on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/gravitational-waves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panning for gold, but finding helium: Discovery of the ultra-stripped supernova SN 2019wxt from gravitational-wave follow-up observations</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2208.09000/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2208.09000/</guid>
+      <description>We present the results from multi-wavelength observations of a transient discovered during an intensive follow-up campaign of S191213g, a gravitational wave (GW) event reported by the LIGO-Virgo Collaboration as a possible binary neutron star merger in a low latency search. This search yielded SN 2019wxt, a young transient in a galaxy whose sky position (in the 80per cent GW contour) and distance (ensuremathsim150 Mpc) were plausibly compatible with the localisation uncertainty of the GW event.</description>
+    </item>
+    
+    <item>
+      <title>SOAR/Goodman Spectroscopic Assessment of Candidate Counterparts of the LIGO/Virgo Event GW190814</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2109.13351/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2109.13351/</guid>
+      <description>On 2019 August 14 at 21:10:39 UTC, the LIGO/Virgo Collaboration (LVC) detected a possible neutron star-black hole merger (NSBH), the first ever identified. An extensive search for an optical counterpart of this event, designated GW190814, was undertaken using the Dark Energy Camera on the 4 m Victor M. Blanco Telescope at the Cerro Tololo Inter-American Observatory. Target of Opportunity interrupts were issued on eight separate nights to observe 11 candidates using the 4.</description>
+    </item>
+    
+    <item>
+      <title>Multi-messenger Observations of a Binary Neutron Star Merger</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1710.05833/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1710.05833/</guid>
+      <description>On 2017 August 17 a binary neutron star coalescence candidate (later designated GW170817) with merger time 12:41:04 UTC was observed through gravitational waves by the Advanced LIGO and Advanced Virgo detectors. The Fermi Gamma-ray Burst Monitor independently detected a gamma-ray burst (GRB 170817A) with a time delay of ensuremathsim 1.7 s with respect to the merger time. From the gravitational-wave signal, the source was initially localized to a sky region of 31 deg^2 at a luminosity distance of 40_-8^+8 Mpc and with component masses consistent with neutron stars.</description>
+    </item>
+    
+    <item>
+      <title>A Search for an Optical Counterpart to the Gravitational-wave Event GW151226</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1606.04795/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1606.04795/</guid>
+      <description>We present a search for an electromagnetic counterpart of the gravitational-wave source GW151226. Using the Pan-STARRS1 telescope we mapped out 290 square degrees in the optical I _P1 filter, starting 11.5 hr after the LIGO information release and lasting for an additional 28 days. The first observations started 49.5 hr after the time of the GW151226 detection. We typically reached sensitivity limits of I _P1 = 20.3-20.8 and covered 26.5per cent of the LIGO probability skymap.</description>
+    </item>
+    
+  </channel>
+</rss>

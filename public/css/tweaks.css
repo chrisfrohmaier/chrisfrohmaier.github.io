@@ -97,12 +97,12 @@ div.skills-heading{
 }
 
 .tag:hover {
-  background-color: crimson;
+  background-color: rgb(221, 96, 18);
   color: white;
 }
 
 .tag:hover::after {
-   border-left-color: crimson;
+   border-left-color: rgb(221, 96, 18);
 }
 
 .project-fact{

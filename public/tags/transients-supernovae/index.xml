@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transients: supernovae on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/transients-supernovae/</link>
+    <description>Recent content in transients: supernovae on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/transients-supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From core collapse to superluminous: the rates of massive stellar explosions from the Palomar Transient Factory</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2010.15270/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2010.15270/</guid>
+      <description>We present measurements of the local core-collapse supernova (CCSN) rate using SN discoveries from the Palomar Transient Factory (PTF). We use a Monte Carlo simulation of hundreds of millions of SN light-curve realizations coupled with the detailed PTF survey detection efficiencies to forward model the SN rates in PTF. Using a sample of 86 CCSNe, including 26 stripped-envelope SNe (SESNe), we show that the overall CCSN volumetric rate is r^mathrmCC_v=9.10_-1.27^+1.56times 10^-5, textSNe yr^-1, textMpc^-3, h_70^3 at = 0.</description>
+    </item>
+    
+    <item>
+      <title>Rates and properties of Type Ia supernovae in galaxy clusters within the dark energy survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2302.05184/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2302.05184/</guid>
+      <description>We identify 66 photometrically classified Type Ia supernovae (SNe Ia) from the Dark Energy Survey (DES) that have occurred within red- sequence selected galaxy clusters. We compare light-curve and host galaxy properties of the cluster SNe to 1024 DES SNe Ia located in field galaxies, the largest comparison of two such samples at high redshift (z &amp;gt; 0.1). We find that cluster SN light curves decline faster than those in the field (97.</description>
+    </item>
+    
+    <item>
+      <title>The first Hubble diagram and cosmological constraints using superluminous supernovae</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2004.12218/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2004.12218/</guid>
+      <description>We present the first Hubble diagram of superluminous supernovae (SLSNe) out to a redshift of two, together with constraints on the matter density, ensuremathOmega_M, and the dark energy equation-of-state parameter, w(ensuremathequivp/ensuremathrho). We build a sample of 20 cosmologically useful SLSNe I based on light curve and spectroscopy quality cuts. We confirm the robustness of the peak-decline SLSN I standardization relation with a larger data set and improved fitting techniques than previous works.</description>
+    </item>
+    
+    <item>
+      <title>The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2005.08653/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2005.08653/</guid>
+      <description>Rapidly evolving transients (RETs), also termed fast blue optical transients, are a recently discovered group of astrophysical events that display rapid luminosity evolution. RETs typically rise to peak in less than 10 d and fade within 30, a time-scale unlikely to be compatible with the decay of Nickel-56 that drives conventional supernovae (SNe). Their peak luminosity spans a range of -15 &amp;lt; M_g &amp;lt; -22.5, with some events observed at redshifts greater than 1.</description>
+    </item>
+    
+    <item>
+      <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</guid>
+      <description>We present improved photometric measurements for the host galaxies of 206 spectroscopically confirmed type Ia supernovae discovered by the Dark Energy Survey Supernova Program (DES-SN) and used in the first DES-SN cosmological analysis. For the DES-SN sample, when considering a 5D (z, x_1, c, ensuremathalpha, ensuremathbeta) bias correction, we find evidence of a Hubble residual &amp;lsquo;mass step&amp;rsquo;, where SNe Ia in high-mass galaxies (&amp;gt;10^10M_ensuremathodot) are intrinsically more luminous (after correction) than their low-mass counterparts by gamma =0.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - Cosmology and Nongalactic Astrophysics on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/astrophysics-cosmology-and-nongalactic-astrophysics/</link>
+    <description>Recent content in Astrophysics - Cosmology and Nongalactic Astrophysics on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/astrophysics-cosmology-and-nongalactic-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The volumetric rate of normal type Ia supernovae in the local Universe discovered by the Palomar Transient Factory</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1903.08580/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1903.08580/</guid>
+      <description>We present the volumetric rate of normal type Ia supernovae (SNe Ia) discovered by the Palomar Transient Factory (PTF). Using strict data-quality cuts, and considering only periods when the PTF maintained a regular cadence, PTF discovered 90 SNe Ia at z ensuremathleq 0.09 in a well-controlled sample over three years of operation (2010-2012). We use this to calculate the volumetric rate of SN Ia events by comparing this sample to simulations of hundreds of millions of SN Ia light curves produced in statistically representative realizations of the PTF survey.</description>
+    </item>
+    
+    <item>
+      <title>Real-time Recovery Efficiencies and Performance of the Palomar Transient Factory&#39;s Transient Discovery Pipeline</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1704.02951/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1704.02951/</guid>
+      <description>We present the transient source detection efficiencies of the Palomar Transient Factory (PTF), parameterizing the number of transients that PTF found versus the number of similar transients that occurred over the same period in the survey search area but were missed. PTF was an optical sky survey carried out with the Palomar 48 inch telescope over 2009-2012, observing more than 8000 square degrees of sky with cadences of between one and five days, locating around 50,000 non-moving transient sources, and spectroscopically confirming around 1900 supernovae.</description>
+    </item>
+    
+    <item>
+      <title>Concerning colour: The effect of environment on type Ia supernova colour in the dark energy survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2208.01357/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2208.01357/</guid>
+      <description>Recent analyses have found intriguing correlations between the colour (c) of type Ia supernovae (SNe Ia) and the size of their &amp;lsquo;mass- step&amp;rsquo;, the relationship between SN Ia host galaxy stellar mass (M_stellar) and SN Ia Hubble residual, and suggest that the cause of this relationship is dust. Using 675 photometrically classified SNe Ia from the Dark Energy Survey 5-yr sample, we study the differences in Hubble residual for a variety of global host galaxy and local environmental properties for SN Ia subsamples split by their colour.</description>
+    </item>
+    
+    <item>
+      <title>The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2111.10382/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2111.10382/</guid>
+      <description>Cosmological analyses of samples of photometrically identified type Ia supernovae (SNe Ia) depend on understanding the effects of &amp;lsquo;contamination&amp;rsquo; from core-collapse and peculiar SN Ia events. We employ a rigorous analysis using the photometric classifier SuperNNova on state-of-the-art simulations of SN samples to determine cosmological biases due to such &amp;rsquo;non-Ia&amp;rsquo; contamination in the Dark Energy Survey (DES) 5-yr SN sample. Depending on the non-Ia SN models used in the SuperNNova training and testing samples, contamination ranges from 0.</description>
+    </item>
+    
+    <item>
+      <title>A galaxy-driven model of type Ia supernova luminosity variations</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2207.05583/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2207.05583/</guid>
+      <description>Type Ia supernovae (SNe Ia) are used as standardizable candles to measure cosmological distances, but differences remain in their corrected luminosities which display a magnitude step as a function of host galaxy properties such as stellar mass and rest-frame U-R colour. Identifying the cause of these steps is key to cosmological analyses and provides insight into SN physics. Here we investigate the effects of SN progenitor ages on their light-curve properties using a galaxy-based forward model that we compare to the Dark Energy Survey 5-yr SN Ia sample.</description>
+    </item>
+    
+    <item>
+      <title>The dark energy survey 5-yr photometrically identified type Ia supernovae</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2201.11142/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2201.11142/</guid>
+      <description>As part of the cosmology analysis using Type Ia Supernovae (SN Ia) in the Dark Energy Survey (DES), we present photometrically identified SN Ia samples using multiband light curves and host galaxy redshifts. For this analysis, we use the photometric classification framework SUPERNNOVAtrained on realistic DES-like simulations. For reliable classification, we process the DES SN programme (DES-SN) data and introduce improvements to the classifier architecture, obtaining classification accuracies of more than 98 per cent on simulations.</description>
+    </item>
+    
+    <item>
+      <title>PISCOLA: a data-driven transient light-curve fitter</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2110.11340/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2110.11340/</guid>
+      <description>Forthcoming time-domain surveys, such as the Rubin Observatory Legacy Survey of Space and Time, will vastly increase samples of supernovae (SNe) and other optical transients, requiring new data-driven techniques to analyse their photometric light curves. Here, we present the &amp;lsquo;Python for Intelligent Supernova- COsmology Light-curve Analysis&amp;rsquo; (PISCOLA ), an open source data- driven light-curve fitter using Gaussian Processes that can estimate rest-frame light curves of transients without the need for an underlying light-curve template.</description>
+    </item>
+    
+    <item>
+      <title>Rates and delay times of Type Ia supernovae in the Dark Energy Survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2105.11954/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2105.11954/</guid>
+      <description>We use a sample of 809 photometrically classified Type Ia supernovae (SNe Ia) discovered by the Dark Energy Survey (DES) along with 40 415 field galaxies to calculate the rate of SNe Ia per galaxy in the redshift range 0.2 &amp;lt; z &amp;lt; 0.6. We recover the known correlation between SN Ia rate and galaxy stellar mass across a broad range of scales 8.5 ensuremathleq log (M_/M_ensuremathodot) ensuremathleq 11.25. We find that the SN Ia rate increases with stellar mass as a power law with index 0.</description>
+    </item>
+    
+    <item>
+      <title>The Dark Energy Survey supernova programme: modelling selection efficiency and observed core-collapse supernova contamination</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2012.07180/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2012.07180/</guid>
+      <description>The analysis of current and future cosmological surveys of Type Ia supernovae (SNe Ia) at high redshift depends on the accurate photometric classification of the SN events detected. Generating realistic simulations of photometric SN surveys constitutes an essential step for training and testing photometric classification algorithms, and for correcting biases introduced by selection effects and contamination arising from core- collapse SNe in the photometric SN Ia samples. We use published SN time-series spectrophotometric templates, rates, luminosity functions, and empirical relationships between SNe and their host galaxies to construct a framework for simulating photometric SN surveys.</description>
+    </item>
+    
+    <item>
+      <title>The first Hubble diagram and cosmological constraints using superluminous supernovae</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2004.12218/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2004.12218/</guid>
+      <description>We present the first Hubble diagram of superluminous supernovae (SLSNe) out to a redshift of two, together with constraints on the matter density, ensuremathOmega_M, and the dark energy equation-of-state parameter, w(ensuremathequivp/ensuremathrho). We build a sample of 20 cosmologically useful SLSNe I based on light curve and spectroscopy quality cuts. We confirm the robustness of the peak-decline SLSN I standardization relation with a larger data set and improved fitting techniques than previous works.</description>
+    </item>
+    
+    <item>
+      <title>The effect of environment on Type Ia supernovae in the Dark Energy Survey three-year cosmological sample</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2008.12101/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2008.12101/</guid>
+      <description>Analyses of Type Ia supernovae (SNe Ia) have found puzzling correlations between their standardized luminosities and host galaxy properties: SNe Ia in high-mass, passive hosts appear brighter than those in lower mass, star-forming hosts. We examine the host galaxies of SNe Ia in the Dark Energy Survey 3-yr spectroscopically confirmed cosmological sample, obtaining photometry in a series of &amp;rsquo;local&amp;rsquo; apertures centred on the SN, and for the global host galaxy. We study the differences in these host galaxy properties, such as stellar mass and rest- frame U - R colours, and their correlations with SN Ia parameters including Hubble residuals.</description>
+    </item>
+    
+    <item>
+      <title>First Cosmology Results using Supernovae Ia from the Dark Energy Survey: Survey Overview, Performance, and Supernova Spectroscopy</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1811.09565/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1811.09565/</guid>
+      <description>We present details on the observing strategy, data-processing techniques, and spectroscopic targeting algorithms for the first three years of operation for the Dark Energy Survey Supernova Program (DES-SN). This five-year program using the Dark Energy Camera mounted on the 4 m Blanco telescope in Chile was designed to discover and follow supernovae (SNe) Ia over a wide redshift range (0.05 &amp;lt; z &amp;lt; 1.2) to measure the equation-of-state parameter of dark energy.</description>
+    </item>
+    
+    <item>
+      <title>Observing the earliest moments of supernovae using strong gravitational lenses</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2003.14340/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2003.14340/</guid>
+      <description>We determine the viability of exploiting lensing time delays to observe strongly gravitationally lensed supernovae (gLSNe) from first light. Assuming a plausible discovery strategy, the Legacy Survey of Space and Time (LSST) and the Zwicky Transient Facility (ZTF) will discover ensuremathsim110 and ensuremathsim1 systems per year before the supernova (SN) explosion in the final image, respectively. Systems will be identified 11.7^+29.8_-9.3 d before the final explosion. We then explore the possibility of performing early-time observations for Type IIP and Type Ia SNe in LSST-discovered systems.</description>
+    </item>
+    
+    <item>
+      <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</guid>
+      <description>We present improved photometric measurements for the host galaxies of 206 spectroscopically confirmed type Ia supernovae discovered by the Dark Energy Survey Supernova Program (DES-SN) and used in the first DES-SN cosmological analysis. For the DES-SN sample, when considering a 5D (z, x_1, c, ensuremathalpha, ensuremathbeta) bias correction, we find evidence of a Hubble residual &amp;lsquo;mass step&amp;rsquo;, where SNe Ia in high-mass galaxies (&amp;gt;10^10M_ensuremathodot) are intrinsically more luminous (after correction) than their low-mass counterparts by gamma =0.</description>
+    </item>
+    
+    <item>
+      <title>Using late-time optical and near-infrared spectra to constrain Type Ia supernova explosion properties</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1803.10252/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1803.10252/</guid>
+      <description>The late-time spectra of Type Ia supernovae (SNe Ia) are powerful probes of the underlying physics of their explosions. We investigate the late-time optical and near-infrared spectra of seven SNe Ia obtained at the VLT with XShooter at &amp;gt;200 d after explosion. At these epochs, the inner Fe-rich ejecta can be studied. We use a line-fitting analysis to determine the relative line fluxes, velocity shifts, and line widths of prominent features contributing to the spectra ([Fe II], [Ni II], and [Co III]).</description>
+    </item>
+    
+    <item>
+      <title>Early observations of the nearby Type Ia supernova SN 2015F</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1609.04465/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1609.04465/</guid>
+      <description>We present photometry and time series spectroscopy of the nearby Type Ia supernova (SN Ia) SN 2015F over -16 d to +80 d relative to maximum light, obtained as part of the Public ESO Spectroscopic Survey of Transient Objects. SN 2015F is a slightly sub-luminous SN Ia with a decline rate of ensuremathDeltam_15(B) = 1.35 ensuremathpm 0.03 mag, placing it in the region between normal and SN 1991bg-like events. Our densely sampled photometric data place tight constraints on the epoch of first light and form of the early-time light curve.</description>
+    </item>
+    
+  </channel>
+</rss>

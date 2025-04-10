@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>galaxies: photometry on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/galaxies-photometry/</link>
+    <description>Recent content in galaxies: photometry on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/galaxies-photometry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2005.08653/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2005.08653/</guid>
+      <description>Rapidly evolving transients (RETs), also termed fast blue optical transients, are a recently discovered group of astrophysical events that display rapid luminosity evolution. RETs typically rise to peak in less than 10 d and fade within 30, a time-scale unlikely to be compatible with the decay of Nickel-56 that drives conventional supernovae (SNe). Their peak luminosity spans a range of -15 &amp;lt; M_g &amp;lt; -22.5, with some events observed at redshifts greater than 1.</description>
+    </item>
+    
+  </channel>
+</rss>

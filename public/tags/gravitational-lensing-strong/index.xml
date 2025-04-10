@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gravitational lensing: strong on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/gravitational-lensing-strong/</link>
+    <description>Recent content in gravitational lensing: strong on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/gravitational-lensing-strong/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observing the earliest moments of supernovae using strong gravitational lenses</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2003.14340/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2003.14340/</guid>
+      <description>We determine the viability of exploiting lensing time delays to observe strongly gravitationally lensed supernovae (gLSNe) from first light. Assuming a plausible discovery strategy, the Legacy Survey of Space and Time (LSST) and the Zwicky Transient Facility (ZTF) will discover ensuremathsim110 and ensuremathsim1 systems per year before the supernova (SN) explosion in the final image, respectively. Systems will be identified 11.7^+29.8_-9.3 d before the final explosion. We then explore the possibility of performing early-time observations for Type IIP and Type Ia SNe in LSST-discovered systems.</description>
+    </item>
+    
+  </channel>
+</rss>

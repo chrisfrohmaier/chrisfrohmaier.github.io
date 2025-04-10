@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distance scale on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/distance-scale/</link>
+    <description>Recent content in distance scale on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/distance-scale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PISCOLA: a data-driven transient light-curve fitter</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2110.11340/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2110.11340/</guid>
+      <description>Forthcoming time-domain surveys, such as the Rubin Observatory Legacy Survey of Space and Time, will vastly increase samples of supernovae (SNe) and other optical transients, requiring new data-driven techniques to analyse their photometric light curves. Here, we present the &amp;lsquo;Python for Intelligent Supernova- COsmology Light-curve Analysis&amp;rsquo; (PISCOLA ), an open source data- driven light-curve fitter using Gaussian Processes that can estimate rest-frame light curves of transients without the need for an underlying light-curve template.</description>
+    </item>
+    
+    <item>
+      <title>The effect of environment on Type Ia supernovae in the Dark Energy Survey three-year cosmological sample</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2008.12101/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2008.12101/</guid>
+      <description>Analyses of Type Ia supernovae (SNe Ia) have found puzzling correlations between their standardized luminosities and host galaxy properties: SNe Ia in high-mass, passive hosts appear brighter than those in lower mass, star-forming hosts. We examine the host galaxies of SNe Ia in the Dark Energy Survey 3-yr spectroscopically confirmed cosmological sample, obtaining photometry in a series of &amp;rsquo;local&amp;rsquo; apertures centred on the SN, and for the global host galaxy. We study the differences in these host galaxy properties, such as stellar mass and rest- frame U - R colours, and their correlations with SN Ia parameters including Hubble residuals.</description>
+    </item>
+    
+    <item>
+      <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</guid>
+      <description>We present improved photometric measurements for the host galaxies of 206 spectroscopically confirmed type Ia supernovae discovered by the Dark Energy Survey Supernova Program (DES-SN) and used in the first DES-SN cosmological analysis. For the DES-SN sample, when considering a 5D (z, x_1, c, ensuremathalpha, ensuremathbeta) bias correction, we find evidence of a Hubble residual &amp;lsquo;mass step&amp;rsquo;, where SNe Ia in high-mass galaxies (&amp;gt;10^10M_ensuremathodot) are intrinsically more luminous (after correction) than their low-mass counterparts by gamma =0.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - Astrophysics of Galaxies on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
+    <description>Recent content in Astrophysics - Astrophysics of Galaxies on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/astrophysics-astrophysics-of-galaxies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concerning colour: The effect of environment on type Ia supernova colour in the dark energy survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2208.01357/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2208.01357/</guid>
+      <description>Recent analyses have found intriguing correlations between the colour (c) of type Ia supernovae (SNe Ia) and the size of their &amp;lsquo;mass- step&amp;rsquo;, the relationship between SN Ia host galaxy stellar mass (M_stellar) and SN Ia Hubble residual, and suggest that the cause of this relationship is dust. Using 675 photometrically classified SNe Ia from the Dark Energy Survey 5-yr sample, we study the differences in Hubble residual for a variety of global host galaxy and local environmental properties for SN Ia subsamples split by their colour.</description>
+    </item>
+    
+    <item>
+      <title>A galaxy-driven model of type Ia supernova luminosity variations</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2207.05583/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2207.05583/</guid>
+      <description>Type Ia supernovae (SNe Ia) are used as standardizable candles to measure cosmological distances, but differences remain in their corrected luminosities which display a magnitude step as a function of host galaxy properties such as stellar mass and rest-frame U-R colour. Identifying the cause of these steps is key to cosmological analyses and provides insight into SN physics. Here we investigate the effects of SN progenitor ages on their light-curve properties using a galaxy-based forward model that we compare to the Dark Energy Survey 5-yr SN Ia sample.</description>
+    </item>
+    
+    <item>
+      <title>Rates and delay times of Type Ia supernovae in the Dark Energy Survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2105.11954/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2105.11954/</guid>
+      <description>We use a sample of 809 photometrically classified Type Ia supernovae (SNe Ia) discovered by the Dark Energy Survey (DES) along with 40 415 field galaxies to calculate the rate of SNe Ia per galaxy in the redshift range 0.2 &amp;lt; z &amp;lt; 0.6. We recover the known correlation between SN Ia rate and galaxy stellar mass across a broad range of scales 8.5 ensuremathleq log (M_/M_ensuremathodot) ensuremathleq 11.25. We find that the SN Ia rate increases with stellar mass as a power law with index 0.</description>
+    </item>
+    
+    <item>
+      <title>The effect of environment on Type Ia supernovae in the Dark Energy Survey three-year cosmological sample</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2008.12101/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2008.12101/</guid>
+      <description>Analyses of Type Ia supernovae (SNe Ia) have found puzzling correlations between their standardized luminosities and host galaxy properties: SNe Ia in high-mass, passive hosts appear brighter than those in lower mass, star-forming hosts. We examine the host galaxies of SNe Ia in the Dark Energy Survey 3-yr spectroscopically confirmed cosmological sample, obtaining photometry in a series of &amp;rsquo;local&amp;rsquo; apertures centred on the SN, and for the global host galaxy. We study the differences in these host galaxy properties, such as stellar mass and rest- frame U - R colours, and their correlations with SN Ia parameters including Hubble residuals.</description>
+    </item>
+    
+    <item>
+      <title>The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2005.08653/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2005.08653/</guid>
+      <description>Rapidly evolving transients (RETs), also termed fast blue optical transients, are a recently discovered group of astrophysical events that display rapid luminosity evolution. RETs typically rise to peak in less than 10 d and fade within 30, a time-scale unlikely to be compatible with the decay of Nickel-56 that drives conventional supernovae (SNe). Their peak luminosity spans a range of -15 &amp;lt; M_g &amp;lt; -22.5, with some events observed at redshifts greater than 1.</description>
+    </item>
+    
+    <item>
+      <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.02640/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.02640/</guid>
+      <description>The 5-yr Dark Energy Survey Supernova Programme (DES-SN) is one of the largest and deepest transient surveys to date in terms of volume and number of supernovae. Identifying and characterizing the host galaxies of transients plays a key role in their classification, the study of their formation mechanisms, and the cosmological analyses. To derive accurate host galaxy properties, we create depth-optimized coadds using single-epoch DES-SN images that are selected based on sky and atmospheric conditions.</description>
+    </item>
+    
+    <item>
+      <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.11294/</guid>
+      <description>We present improved photometric measurements for the host galaxies of 206 spectroscopically confirmed type Ia supernovae discovered by the Dark Energy Survey Supernova Program (DES-SN) and used in the first DES-SN cosmological analysis. For the DES-SN sample, when considering a 5D (z, x_1, c, ensuremathalpha, ensuremathbeta) bias correction, we find evidence of a Hubble residual &amp;lsquo;mass step&amp;rsquo;, where SNe Ia in high-mass galaxies (&amp;gt;10^10M_ensuremathodot) are intrinsically more luminous (after correction) than their low-mass counterparts by gamma =0.</description>
+    </item>
+    
+    <item>
+      <title>Illuminating gravitational waves: A concordant picture of photons from a neutron star merger</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_1710.05436/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_1710.05436/</guid>
+      <description>Merging neutron stars offer an excellent laboratory for simultaneously studying strong-field gravity and matter in extreme environments. We establish the physical association of an electromagnetic counterpart (EM170817) with gravitational waves (GW170817) detected from merging neutron stars. By synthesizing a panchromatic data set, we demonstrate that merging neutron stars are a long-sought production site forging heavy elements by r-process nucleosynthesis. The weak gamma rays seen in EM170817 are dissimilar to classical short gamma-ray bursts with ultrarelativistic jets.</description>
+    </item>
+    
+  </channel>
+</rss>

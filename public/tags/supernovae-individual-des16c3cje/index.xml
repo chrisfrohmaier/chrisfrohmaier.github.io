@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supernovae: individual: (DES16C3cje) on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/supernovae-individual-des16c3cje/</link>
+    <description>Recent content in supernovae: individual: (DES16C3cje) on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/supernovae-individual-des16c3cje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DES16C3cje: A low-luminosity, long-lived supernova</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2001.11559/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2001.11559/</guid>
+      <description>We present DES16C3cje, a low-luminosity, long-lived type II supernova (SN II) at redshift 0.0618, detected by the Dark Energy Survey (DES). DES16C3cje is a unique SN. The spectra are characterized by extremely narrow photospheric lines corresponding to very low expansion velocities of ensuremathlesssim1500 km s^-1, and the light curve shows an initial peak that fades after 50 d before slowly rebrightening over a further 100 d to reach an absolute brightness of M_r ensuremathsim -15.</description>
+    </item>
+    
+  </channel>
+</rss>

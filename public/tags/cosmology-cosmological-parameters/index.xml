@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cosmology: cosmological parameters on Chris Frohmaier</title>
+    <link>https://chrisfrohmaier.github.io/tags/cosmology-cosmological-parameters/</link>
+    <description>Recent content in cosmology: cosmological parameters on Chris Frohmaier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisfrohmaier.github.io/tags/cosmology-cosmological-parameters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The first Hubble diagram and cosmological constraints using superluminous supernovae</title>
+      <link>https://chrisfrohmaier.github.io/publications/paper_2004.12218/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisfrohmaier.github.io/publications/paper_2004.12218/</guid>
+      <description>We present the first Hubble diagram of superluminous supernovae (SLSNe) out to a redshift of two, together with constraints on the matter density, ensuremathOmega_M, and the dark energy equation-of-state parameter, w(ensuremathequivp/ensuremathrho). We build a sample of 20 cosmologically useful SLSNe I based on light curve and spectroscopy quality cuts. We confirm the robustness of the peak-decline SLSN I standardization relation with a larger data set and improved fitting techniques than previous works.</description>
+    </item>
+    
+  </channel>
+</rss>

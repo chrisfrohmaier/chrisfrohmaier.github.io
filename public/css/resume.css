@@ -6,7 +6,7 @@ html {
 body {
   font-family: Helvetica, Arial, sans-serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #968690;
 }
 
 @media (min-width: 992px) {
@@ -123,9 +123,10 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+/* Change min-height to adapt the minimum size of each bit of content */
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 100vh;
+    min-height: 50vh;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
@@ -156,4 +157,4 @@ a:hover, a:focus, a:active {
 }
 
 
-/* https://github.com/chriskempson/base16-shell/blob/master/base16-shell.png Test*/
+/* https://github.com/chriskempson/base16-shell/blob/master/base16-shell.png Test3*/
